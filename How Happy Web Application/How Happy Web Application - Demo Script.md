@@ -1,12 +1,19 @@
+
 # How Happy Web Application
 HowHappy.co.uk is an ASP.Net web application that uses the Emotion API and Language Understanding Intelligent Service API (LUIS) from Microsoft Cognitive Services to assess and  order with human faces in a group photo. In this demo you'll take a photo using the device's camera or optionally upload a file which you'll then use the HowHappy.co.uk web site to explore the emotions shown in the photo. You'll also look at the LUIS backend model that supports the application.
 
 Technologies: **Microsoft Cognitive Services (Emotion and LUIS)**
+
 Technical Depth: **Anyone**
+
 Time: **5 minutes**
+
 Software: **Edge Browser**
+
 Hardware: **Webcam good to have, but not mandatory**
+
 Supporting files: **a-justin-bieber-concert-summed-up-in-one-picture.jpg**(only needed if the device does not have a web cam)
+
 Accounts: **FDStand2016@outlook.com** (password is **FutureDecoded2016**)
 
 ## Take a photo

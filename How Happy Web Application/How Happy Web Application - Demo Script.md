@@ -46,7 +46,8 @@ Key talking points:
 Key talking points:
 * Simple ASP.net web application that uses the Emotion and LUIS apis
 * Uses LUIS to convert natural language to one of 4 'intents'
-* Uses emotion API to sort faces based on emotio
+* Uses emotion API to sort faces based on emotion
+
 ---
 
 1. Visit http://HowHappy.co.uk

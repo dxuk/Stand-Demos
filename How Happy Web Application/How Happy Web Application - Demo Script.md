@@ -66,3 +66,7 @@ Type "Show me the least happy person"
 * This time we're looking for the least happiest
 
 ## Explore the LUIS model
+
+Go to https://www.luis.ai/
+
+Login in as **FDStand2016@outlook.com** (password is **FutureDecoded2016**)

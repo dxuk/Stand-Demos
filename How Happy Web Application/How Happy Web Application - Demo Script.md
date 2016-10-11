@@ -73,6 +73,12 @@ Key talking points:
   * This time we're looking for the least happiest
 
 ## Explore the LUIS model
+Key talking points:
+* LUIS converts natural language to an intent and set of entities
+* Train the model using a few sample utterances
+* Publish as a rest API which returns JSON
+
+---
 
 1. Go to https://www.luis.ai/
 

@@ -11,6 +11,8 @@ Software: **Edge Browser**
 
 Hardware: **Webcam good to have, but not mandatory**
 
+Video: **[How Happy Web Application.mp4 ](https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/How%20Happy%20Web%20Application/How%20Happy%20Web%20Application.mp4)**
+ 
 Supporting files: **[a-justin-bieber-concert-summed-up-in-one-picture.jpg](https://raw.githubusercontent.com/dxuk/Future-Decoded-2016-Stand-Demos/master/How%20Happy%20Web%20Application/a-justin-bieber-concert-summed-up-in-one-picture.jpg)** (only needed if the device does not have a web cam)
 
 Accounts: **FDStand2016@outlook.com** (password is **FutureDecoded2016**)

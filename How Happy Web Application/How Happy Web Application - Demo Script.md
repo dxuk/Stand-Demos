@@ -73,10 +73,29 @@ Key talking points:
   * This time we're looking for the least happiest
 
 ## Explore the LUIS model
-<<<<<<< HEAD
 
 Go to https://www.luis.ai/
 
 Login in as **FDStand2016@outlook.com** (password is **FutureDecoded2016**)
-=======
->>>>>>> 69af2ff9879808925bd4871f148a8945b9ed8719
+
+Open the How Happy LUIS model
+* An export of the model is also avaliable here: 
+
+Explore the intents
+
+Explore the entities
+* `Emotion` the 8 emotions that the model is trained for
+* `Ordinal` a built in numeric entity tat allows use to say things like "2nd happiest"
+
+Enter "Show me the angriest people" as a `New Utterance`
+* The tag "angriest" as the "angry" emotion enity
+* Ensure the `SortedByEmotion` intent is selected
+
+Review labels
+* Show previously labelled utterances
+
+Train 
+
+Publish
+
+Add "Show me the angriest people" as a query and show JSON result

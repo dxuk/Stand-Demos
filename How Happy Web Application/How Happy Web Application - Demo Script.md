@@ -74,28 +74,28 @@ Key talking points:
 
 ## Explore the LUIS model
 
-Go to https://www.luis.ai/
+1. Go to https://www.luis.ai/
 
-Login in as **FDStand2016@outlook.com** (password is **FutureDecoded2016**)
+2. Login in as **FDStand2016@outlook.com** (password is **FutureDecoded2016**)
 
-Open the How Happy LUIS model
-* An export of the model is also avaliable here: 
+3. Open the How Happy LUIS model
+  * An export of the model is also avaliable here: 
 
-Explore the intents
+4. Explore the intents
 
-Explore the entities
-* `Emotion` the 8 emotions that the model is trained for
-* `Ordinal` a built in numeric entity tat allows use to say things like "2nd happiest"
+5. Explore the entities
+  * `Emotion` the 8 emotions that the model is trained for
+  * `Ordinal` a built in numeric entity tat allows use to say things like "2nd happiest"
 
-Enter "Show me the angriest people" as a `New Utterance`
-* The tag "angriest" as the "angry" emotion enity
-* Ensure the `SortedByEmotion` intent is selected
+6. Enter "Show me the angriest people" as a `New Utterance`
+  * The tag "angriest" as the "angry" emotion enity
+  * Ensure the `SortedByEmotion` intent is selected
 
-Review labels
-* Show previously labelled utterances
+7. Review labels
+  * Show previously labelled utterances
 
-Train 
+8. Train 
 
-Publish
+9. Publish
 
-Add "Show me the angriest people" as a query and show JSON result
+10. Add "Show me the angriest people" as a query and show JSON result

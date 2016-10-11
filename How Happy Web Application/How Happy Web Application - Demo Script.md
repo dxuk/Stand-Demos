@@ -99,3 +99,5 @@ Key talking points:
 9. Publish
 
 10. Add "Show me the angriest people" as a query and show JSON result
+
+11. Go back to the main website and search for "Show me the angriest people"

@@ -1,7 +1,8 @@
-Simple Windows Hello demo
+# Simple Windows Hello demo
 -------------------------
 
-# This simply shows the desired behaviour of using biometrics to logon to a Windows PC, with an IR camera for facial recognition.
+** This simply shows the desired behaviour of using biometrics to logon to a Windows PC, with an IR camera for facial recognition.**
+
 Technologies: **Windows Hello**
 Technical Depth: **None, basic windows admin**
 Time: **2-3 minutes**

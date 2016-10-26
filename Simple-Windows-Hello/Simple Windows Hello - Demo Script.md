@@ -36,7 +36,7 @@ Setup
 Explain the demo
 ----------------
 
-Show how the device can be unlocked with PIN and/or Face usng a Microsoft Account and an Azure AD Account.
+Show how the device can be unlocked with PIN and/or Face using a Microsoft Account and an Azure AD Account.
 Hello lets users authenticate to:
 a Microsoft account.
 an Active Directory account.

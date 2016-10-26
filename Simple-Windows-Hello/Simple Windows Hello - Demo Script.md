@@ -4,13 +4,21 @@
 ** This simply shows the desired behaviour of using biometrics to logon to a Windows PC, with an IR camera for facial recognition.**
 
 Technologies: **Windows Hello**
+
 Technical Depth: **None, basic windows admin**
+
 Time: **2-3 minutes**
+
 Software: **Windows 10**
+
 Hardware: **Intel RealSense Camera**
+
 Video: 
+
 Supporting files: **N/A**
+
 Accounts: **Preset Account needs to be enabled for the user in advance as per below.**
+
 
 Setup
 -----

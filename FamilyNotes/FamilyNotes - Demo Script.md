@@ -86,22 +86,41 @@ Now turn away from the camera (everyone) so there are no faces detected, and aft
 Now close the FamilyNotes app. 
 
 Show the following commands. 
+
 -- Hey Cortana, Start FamilyNotes
 
 -- Hey Cortana, FamilyNotes, Add New Note 
 
--- Hey Cortana, FamilyNotes, Add new note for <Person>
+-- Hey Cortana, FamilyNotes, Add new note for you...
 
 -- Hey Cortana, Show my Notes 
 
 
 # 3 ... In app Speech Recognition
 
+Select the FamilyNotes App and bring it into the foreground. 
 
+Say - New Note for (your name) 
 
+Wait for the PC to say 'dictate your note' and give it another 1-2 seconds.
 
+(The mic gets muted so the pc doesn't dictate the 'dictate your note' cue. 
 
+Then just say something you want to note down. 
 
+(It should then appear ... )
+
+The audio cues are using the SpeechSynthesizer API https://msdn.microsoft.com/library/windows/apps/windows.media.speechsynthesis.speechsynthesizer.aspx
+
+# 4 ... Basic Inking Support 
+
+Click 'New Note' in the bottom left of the screen
+
+Select 'Ink' (middle button at the bottom of the note) 
+
+Draw on the note with your finger or a Surface Pen, this is supported by the InkCanvas control, with a few extensions to make data binding work.
+
+** We're Done **
 
 ** Code snippets and examples can be found here **
 Face Detection

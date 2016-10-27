@@ -1,7 +1,7 @@
 # Family notes app demo
 -------------------------
 
-** This demonstrates using the camera and speech features in UWP to filter and add user-centric notes in a Universal Windows App.**
+** This demonstrates using the camera and speech features in UWP to filter and add user-centric notes in a Universal Windows App as well as the Cognitive Services Face API for facial recognition.**
 
 Technologies: **Universal Windows Platform**
 

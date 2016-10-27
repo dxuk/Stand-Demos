@@ -26,10 +26,8 @@ OR get the precompiled version from https://devdemwfnstac.blob.core.windows.net/
 
 ** Note that not all of the features work in the debugger, some only seem to work once installed (Dictation), and some will silently fail if you enter an incorrect Face API key with no error message as the code seems to randomly swallow exceptions from the face api (but hey its demo code right!).
 
-2. Install the app and let it set up cortana actions.
-
+2. Install the app and let it set up it's cortana actions on first run.
 3. Run the app and hit the setup button (the cog on the bottom right)
-
 4. Paste the API key for the Cognitive Services Face API into the correct box.
 
 ** Will has one pre-setup that you can use if you need one. **
@@ -58,6 +56,9 @@ Then set up some notes :-
 
 Explain the demo
 ----------------
+** There are 4 key points to this demo. ** 
+
+Face Detection, Facial Recognition, 
 
 
 ** Make the following points clear:- **

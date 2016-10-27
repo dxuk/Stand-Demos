@@ -7,7 +7,7 @@ Technologies: **Universal Windows Platform**
 
 Technical Depth: **None, Pre-Canned**
 
-Time: **5-10 minutes**
+Time: **15-20 minutes**
 
 Software: **Windows 10, FamilyNotes app**
 
@@ -62,7 +62,7 @@ Explain the demo
 
 Face Detection, Facial Recognition, Cortana, Voice Dictation, Ink Notes 
 
-#1... Face Detection / Recognition 
+# 1... Face Detection / Recognition 
 
 1. Ensure that 'Everyone' is the selected user, and that two or more people are visible to the camera (the bottom bar should light up with 'Detected Faces : x' and nothing should be selected yet. 
 
@@ -83,12 +83,26 @@ Now turn away from the camera (everyone) so there are no faces detected, and aft
 
 # 2 ... Cortana Integration
 
+Now close the FamilyNotes app. 
+
+Show the following commands. 
+-- Hey Cortana, Start FamilyNotes
+
+-- Hey Cortana, FamilyNotes, Add New Note 
+-- Hey Cortana, FamilyNotes, Add new note for <Person>
+-- Hey Cortana, Show my Notes 
+
+
+# 3 ... In app Speech Recognition
+
+
 
 
 
 
 
 ** Code snippets and examples can be found here **
-
+Face Detection
 https://blogs.windows.com/buildingapps/2016/06/28/familynotes-using-the-camera-to-detect-a-user/#qwXMzWAgi5XfOrQM.97
-
+Audio 
+https://blogs.windows.com/buildingapps/2016/07/05/familynotes-spoken-words-and-pictures/#m9TOPIb3ymyJtF00.97

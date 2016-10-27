@@ -45,7 +45,7 @@ You need to add YOUR account / face to the machines being used to demo in the MP
 
 1. Click the New Person Icon (Third from the bottom right)
 2. Enter your name and click 'Take Snapshot', then get a decent piccie! (this uses the CameraCaptureUI API https://msdn.microsoft.com/en-us/library/windows/apps/windows.media.capture.cameracaptureui.aspx)
-3. Then click 'Add', at this point your Face is added to a FaceList in Project Oxford. https://dev.projectoxford.ai/docs/services/563879b61984550e40cbbe8d/operations/563879b61984550f30395250
+3. Then click 'Add', at this point your Face is added to a FaceList in Cognitive Services (Formerly Project Oxford). https://dev.projectoxford.ai/docs/services/563879b61984550e40cbbe8d/operations/563879b61984550f30395250
 
 
 This will set up your face and account.

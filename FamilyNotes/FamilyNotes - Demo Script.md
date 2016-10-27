@@ -89,7 +89,9 @@ Show the following commands.
 -- Hey Cortana, Start FamilyNotes
 
 -- Hey Cortana, FamilyNotes, Add New Note 
+
 -- Hey Cortana, FamilyNotes, Add new note for <Person>
+
 -- Hey Cortana, Show my Notes 
 
 

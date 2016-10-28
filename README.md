@@ -8,22 +8,15 @@ The Microsoft Village stand will be split into several areas, three of which are
 ## Intelligent Cloud Demonstrations
 A collection of demonstrations that showcase Azure's range of intelligent cloud services, including Microsoft Cognitive Services, Azure Machine Learning and others.
 * [How Happy Web Application](https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/How%20Happy%20Web%20Application/How%20Happy%20Web%20Application%20-%20Demo%20Script.md)
-<<<<<<< HEAD
-* How Happy Bot
-* [A tour around Cognitive Services](https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/A%20Tour%20Around%20Cognitive%20Services/A%20Tour%20Around%20Cognitive%20Services%20-%20Demo%20Script.md)
-* Car Sales Data with Azure Machine Learning
-* Intelligent Kiosk
-=======
 * [A tour around Cognitive Services](https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/A%20Tour%20Around%20Cognitive%20Services/A%20Tour%20Around%20Cognitive%20Services%20-%20Demo%20Script.md) (Martin K)
 * Car Sales Data with Azure Machine Learning (Martin K)
 * Intelligent Kiosk (Martin B)
 * Power BI with Cortana (Ben R)
->>>>>>> origin/master
 
 ## More Personal Computing Demonstrations
 A collection of demonstrations that show case how Windows and Universal Windows Apps are enabling more personal computing.
 * [Windows Hello] (https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/Simple-Windows-Hello/Simple%20Windows%20Hello%20-%20Demo%20Script.md) (Will)
-* Windows Inking (Andrew B)
+* [Windows Inking](https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/Windows%20Inking/Windows%20Inking.md)
 * Cortana (Andrew B)
 * [Family Notes] (https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/FamilyNotes/FamilyNotes%20-%20Demo%20Script.md) (Will)
 * Intelligent Kiosk (Martin B)

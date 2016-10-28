@@ -25,7 +25,7 @@ A collection of demonstrations that show case how Windows and Universal Windows 
 A collection of demos that showcase Office, Office 365 and Skype.
 * Office Unified Graph API with Visual Graph Explorer (Ross/Simon)
 * Skype live translation via messaging (Ben R/Simon)
-* Office add-ins and commands (Martin K)
+* [Office add-ins and commands](https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/Office%20add-ins%20and%20commands/Office%20add-ins%20and%20commands.md)
 * [Excel Bot Demo](https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/ExcelBot/Excelbot.md) (Simon)
 * Delve (Ross)
 * Power BI with Cortana (Ben R)

@@ -26,7 +26,7 @@ Key talking points:
 ---
 
 Show how the pen brings up the ink workspace
-    * Double tab pen end
+* Double tab pen end
 
 Or click in the bottom right of the system tray
 
@@ -40,6 +40,8 @@ Create a new Sticky Note
 
 Draw/Type/Change Colour
 
+Minimise and close
+
 ## Sketchpad
 Key talking points:
 * A whitespace for your ideas and creations
@@ -48,6 +50,14 @@ Key talking points:
 
 ---
 
+Create a sketch
+
+Use the ruler
+
+Change pen sizes, colours etc
+
+Share it
+
 ## Screen Sketch
 Key talking points:
 * Annotate anything on screen with digital ink
@@ -55,3 +65,9 @@ Key talking points:
 * Like what we did in Edge but for the entire desktop
 
 ---
+
+Use the ruler
+
+Change pen sizes, colours etc
+
+Share it

@@ -11,7 +11,7 @@ Software: **Browser**
 
 Hardware: **None**
 
-Video: **To Do**
+Video: **[Car Price Prediction in ML Studio.mp4](https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/Car%20Sales%20Data%20with%20Azure%20Machine%20Learning/Car%20Price%20Prediction%20in%20ML%20Studio.mp4)**
  
 Supporting files: **[Automobile price data.csv](https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/Car%20Sales%20Data%20with%20Azure%20Machine%20Learning/Automobile%20price%20data.csv)**
 

@@ -25,10 +25,10 @@ Key talking points:
 
 ---
 
-Show how the pen brings up the ink workspace
-* Double tab pen end
+1. Show how the pen brings up the ink workspace
+  * Double tab pen end
 
-Or click in the bottom right of the system tray
+2. Click in the bottom right of the system tray
 
 ## Sticky Notes
 Key talking points:
@@ -36,11 +36,11 @@ Key talking points:
 
 ---
 
-Create a new Sticky Note
+1. Create a new Sticky Note
 
-Draw/Type/Change Colour
+2. Draw/Type/Change Colour
 
-Minimise and close
+3. Minimise and close
 
 ## Sketchpad
 Key talking points:
@@ -50,13 +50,13 @@ Key talking points:
 
 ---
 
-Create a sketch
+1. Create a sketch
 
-Use the ruler
+2. Use the ruler
 
-Change pen sizes, colours etc
+3. Change pen sizes, colours etc
 
-Share it
+4. Share it
 
 ## Screen Sketch
 Key talking points:
@@ -66,8 +66,10 @@ Key talking points:
 
 ---
 
-Use the ruler
+1. Ivoke screen sketch from the ink workspace
 
-Change pen sizes, colours etc
+2. Use the ruler
 
-Share it
+3. Change pen sizes, colours etc
+
+4. Share it

@@ -1,5 +1,5 @@
 # A Tour Around Cognitive Services
-This demo uses the sample apps provided in the Cognitive Services web site to show the range of APIs. This demo can be as short or as long as required and requires very little prep.
+This demo uses the sample apps provided in the Cognitive Services web site to show the range of APIs. This demo can be as short or as long as required and requires very little prep. These are some of the more interesting / significant API functions.
 
 Technologies: **Microsoft Cognitive Services**
 
@@ -48,3 +48,51 @@ Resizes images to dimensions specific, optionally centering on eth region of int
 Key Talking Points
 * Specify your own width and height dimensions
 * Enable smart cropping to focus on the region of interest
+
+## Emotion > Recognize Emotions in Images 
+https://www.microsoft.com/cognitive-services/en-us/emotion-api
+Recognises and scores emotions in humans faces in photos
+
+Key Talking Points
+* Anger, contempt, disgust, fear, happiness, neutral, sadness, and surprise
+* > 64 faces
+* Supports video by uploading individual frames
+* Free for 30,000 API calls or 300 videos per month
+
+## Face > Face Detection 
+https://www.microsoft.com/cognitive-services/en-us/face-api
+Detect one or more human faces in an image and get back face rectangles for where in the image the faces are, along with face attributes which contain machine learning-based predictions of facial features
+
+Key Talking Points
+* Age, Gender, Pose, Smile, and Facial Hair along with 27 landmarks for each face in the image
+* Free for 30,000 API calls per month
+
+## Face > Face Verification  
+https://www.microsoft.com/cognitive-services/en-us/face-api
+Check the likelihood that two faces belong to the same person
+
+Key Talking Points
+* The API will return a confidence score about how likely it is that the two faces belong to one person
+* Free for 30,000 API calls per month
+
+## Face > Face Identification 
+https://www.microsoft.com/cognitive-services/en-us/face-api
+Search and identify faces. Tag people and groups with user-provided data and then search those for a match with previously unseen faces.
+
+Key Talking Points
+* Build a data set of known faces
+* Free for 30,000 API calls per month
+
+## Face > Similar Face Searching
+https://www.microsoft.com/cognitive-services/en-us/face-api
+Easily find similar-looking faces
+
+Key Talking Points
+* Free for 30,000 API calls per month
+
+## Face > Face Grouping
+https://www.microsoft.com/cognitive-services/en-us/face-api
+Organize many unidentified faces together into groups, based on their visual similarity
+
+Key Talking Points
+* Free for 30,000 API calls per month

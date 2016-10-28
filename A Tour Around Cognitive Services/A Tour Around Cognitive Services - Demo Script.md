@@ -29,13 +29,6 @@ Key Talking Points
 * Built-in Face API call for human faces
 * Colours
 
-## Computer Vision > Recognise Celebrities
-Built on the computer vision API with a domain-specific mode. This API is able to identify celebrities
-
-Key Talking Points
-* Trained with 200k celebrities
-* Identifies celebrity and provides found rectangle bounds
-
 ## Computer Vision > Read text in images
 OCR capabilities
 
@@ -83,16 +76,49 @@ Key Talking Points
 * Build a data set of known faces
 * Free for 30,000 API calls per month
 
-## Face > Similar Face Searching
-https://www.microsoft.com/cognitive-services/en-us/face-api
-Easily find similar-looking faces
+## Bing Speech > Speech Recognition 
+https://www.microsoft.com/cognitive-services/en-us/speech-api
+Convert spoken audio to text
 
 Key Talking Points
-* Free for 30,000 API calls per month
+* Great for bots and CaaP
+* Free for 5,000 API calls per month
 
-## Face > Face Grouping
-https://www.microsoft.com/cognitive-services/en-us/face-api
-Organize many unidentified faces together into groups, based on their visual similarity
+## Bing Speech > Text to Speech 
+https://www.microsoft.com/cognitive-services/en-us/speech-api
+Convert text to spoken audio
 
 Key Talking Points
-* Free for 30,000 API calls per month
+* Great for bots and CaaP
+* Free for 5,000 API calls per month
+
+## Language Understanding Intelligent Service (LUIS)
+https://www.microsoft.com/cognitive-services/en-us/language-understanding-intelligent-service-luis
+Understands intent and entities in text.
+
+One of the key problems in human-computer interactions is the ability of the computer to understand what a person wants, and to find the pieces of information that are relevant to their intent. LUIS is designed to provide you with an easy way to create models, which allow your applications to understand user commands.
+
+Key Talking Points
+* Essential for bots and CaaP
+* Free for 10,000 API calls per month
+
+## Text Analytics
+https://www.microsoft.com/cognitive-services/en-us/text-analytics-api
+Analyze text
+
+Key Talking Points
+* Sentiment analysis
+* Key phrase extraction
+* Topic detection
+* Language Detection
+* Free for 5000 API calls per month
+
+## Recommendations API
+https://www.microsoft.com/cognitive-services/en-us/recommendations-api
+Provide personalized product recommendations for your customer and improve sales in your store
+
+Key Talking Points
+* Frequently Bought Together (FBT) recommendations
+* Item to item recommendations
+* Personalized user recommendations
+* Free for 10,000 API calls per month

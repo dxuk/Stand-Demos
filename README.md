@@ -23,7 +23,7 @@ A collection of demonstrations that show case how Windows and Universal Windows 
 
 ## Reinventing Productivity Demonstrations
 A collection of demos that showcase Office, Office 365 and Skype.
-* Office Unified Graph API with Visual Graph Explorer (Ross with Simon's support)
+* [Office Unified Graph API](https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/Office%20Graph%20API/Graph%20API.md) with Visual Graph Explorer
 * Skype live translation via messaging (Ben R with Simon's support)
 * Office add-ins and commands (Martin K)
 * Excel Bot Demo (Simon M)

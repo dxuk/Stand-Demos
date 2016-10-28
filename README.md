@@ -9,7 +9,7 @@ The Microsoft Village stand will be split into several areas, three of which are
 A collection of demonstrations that showcase Azure's range of intelligent cloud services, including Microsoft Cognitive Services, Azure Machine Learning and others.
 * [How Happy Web Application](https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/How%20Happy%20Web%20Application/How%20Happy%20Web%20Application%20-%20Demo%20Script.md)
 * [A tour around Cognitive Services](https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/A%20Tour%20Around%20Cognitive%20Services/A%20Tour%20Around%20Cognitive%20Services%20-%20Demo%20Script.md)
-* Car Sales Data with Azure Machine Learning (Martin K)
+* [Car Sales Data with Azure Machine Learning](https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/Car%20Sales%20Data%20with%20Azure%20Machine%20Learning/Car%20Sales%20Data%20with%20Azure%20Machine%20Learning.md)
 * Intelligent Kiosk (Martin B)
 * Power BI with Cortana (Ben R)
 
@@ -26,7 +26,7 @@ A collection of demos that showcase Office, Office 365 and Skype.
 * Office Unified Graph API with Visual Graph Explorer (Ross/Simon)
 * Skype live translation via messaging (Ben R/Simon)
 * Office add-ins and commands (Martin K)
-* [Excel Bot Demo] (https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/ExcelBot/Excelbot.md) (Simon)
+* [Excel Bot Demo](https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/ExcelBot/Excelbot.md) (Simon)
 * Delve (Ross)
 * Power BI with Cortana (Ben R)
 * Flow & Planner (Ross)

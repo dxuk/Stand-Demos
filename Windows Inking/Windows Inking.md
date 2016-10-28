@@ -11,7 +11,7 @@ Software: **Windows 10**
 
 Hardware: **Digital pen**
 
-Video: **[IntroWindowsInkWorkspace.mp4]()**
+Video: **[IntroWindowsInkWorkspace.mp4](https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/Windows%20Inking/IntroWindowsInkWorkspace.mp4)**
 
 Supporting files: **None**
 

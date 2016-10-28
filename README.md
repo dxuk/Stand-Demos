@@ -19,7 +19,7 @@ A collection of demonstrations that show case how Windows and Universal Windows 
 * Windows Hello (Will)
 * Windows Inking (Andrew B)
 * Cortana (Andrew B)
-* Family Notes (https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/FamilyNotes/FamilyNotes%20-%20Demo%20Script.md(Will))
+* [Family Notes] (https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/FamilyNotes/FamilyNotes%20-%20Demo%20Script.md(Will))
 * Intelligent Kiosk (Martin B)
 
 ## Reinventing Productivity Demonstrations

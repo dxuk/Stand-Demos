@@ -16,7 +16,7 @@ A collection of demonstrations that showcase Azure's range of intelligent cloud 
 
 ## More Personal Computing Demonstrations
 A collection of demonstrations that show case how Windows and Universal Windows Apps are enabling more personal computing.
-* Windows Hello (Will)
+* [Windows Hello] (https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/Simple-Windows-Hello/Simple%20Windows%20Hello%20-%20Demo%20Script.md) (Will)
 * Windows Inking (Andrew B)
 * Cortana (Andrew B)
 * [Family Notes] (https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/FamilyNotes/FamilyNotes%20-%20Demo%20Script.md) (Will)

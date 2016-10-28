@@ -24,23 +24,34 @@ If Cortana does not appear, enable it by folloiwng the steps that appear in Bing
 
 ## About Cortana
 "Hey Cortana, where is the master chief?"
+
 "Hey Cortana, who made you?"
+
 "Hey Cortana, how old are you?"
+
 "Flip a coin for me"
+
 "How old is bill gates?"
 
 ## About the device
 "Launch Notepad"
+
 "Launch Edge" 
 
 ## About the user
-"Will I need an umbrella tomorrow? "
+"Will I need an umbrella tomorrow?"
+
 "What’s on at the cinema?"
+
 "Show me a local map"
+
 "Remind me to call mum at 3pm on Friday" 
+
 "Show me directions to bristol"
+
 "How long would it take me to drive to Luton?"
 
 ## Answers in the search box
 "2345/13" 
+
 "£300 to $"

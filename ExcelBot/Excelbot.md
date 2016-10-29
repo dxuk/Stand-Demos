@@ -13,7 +13,7 @@ Software: **Edge Browser**
 
 Hardware: **None**
 
-Video: **Coming soon**
+Video: **[excelbot.mp4](https://raw.githubusercontent.com/dxuk/Future-Decoded-2016-Stand-Demos/master/ExcelBot/excelbot.mp4)**
  
 Supporting files: **[loancalc.xlsx](https://raw.githubusercontent.com/dxuk/Future-Decoded-2016-Stand-Demos/master/ExcelBot/loancalc.xlsx)** 
 
@@ -38,7 +38,7 @@ Key talking points:
 ---
 
 1. Ensure that the loancalc.xlsx file is in the root of your Corp Onedrive for Business
-2. In a browser (Edge or Chrome), navigate to the Excel sheet and display it in 2/3rd of the screen (left hand side)
+2. In a browser (Edge or Chrome), navigate to the Excel sheet and display it in 2/3rd of the screen (left hand side). Ensure that the sheet is opened for editing within the browser - this will ensure that the values can be viewed updating in real-time.
 3. Open a seperate a browser (Edge or Chrome) and navigate to http://aka.ms/excelbot and display this within the remaining 3rd of the screen (on right hand side)
 4. You should now have the excel sheet on the left hand side and chat window on the right hand side - sitting side-by-side. Explain that whilst we are using this chat window as a web-frame, this could 
 easily be made available in other channels such as Facebook messenger, Slack, Skype, Telegram etc. because we are using the MS Bot Framework.

@@ -7,7 +7,7 @@ Technologies: **Universal Windows Platform**
 
 Technical Depth: **None, Pre-Canned**
 
-Time: **15-20 minutes**
+Time: **10 minutes**
 
 Software: **Windows 10, FamilyNotes app**
 
@@ -17,7 +17,7 @@ Supporting files: **N/A**
 
 Accounts: Configure the machine under ONE demo account.
 
-There is no video for this demo.
+Video: https://devdemwfnstac.blob.core.windows.net/fdddemo/ice_video_20161031-134858.webm
 
 App Setup
 ---------

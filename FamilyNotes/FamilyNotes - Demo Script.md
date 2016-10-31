@@ -21,18 +21,21 @@ There is no video for this demo.
 
 App Setup
 ---------
+
+Ensure that cortana has been setup and run at least once, and that 'Hey Cortana' is enabled.
+
 1. Download either the source and build / run in VS2015 (from this repo https://github.com/Microsoft/Windows-appsample-familynotes)
 
 OR get the precompiled version from https://devdemwfnstac.blob.core.windows.net/fdddemo/FamilyNotes_1.0.0.0_Debug_Test.zip
-
-** Note that not all of the features work in the debugger, some only seem to work once installed (Dictation), and some will silently fail if you enter an incorrect Face API key with no error message as the code seems to randomly swallow exceptions from the face api (but hey its demo code right!).
 
 2. Install the app and let it set up it's cortana actions on first run.
 3. Run the app and hit the setup button (the cog on the bottom right)
 4. Paste the API key for the Cognitive Services Face API into the correct box.
 5. To turn on Face Detection / Recogition, Click the picture frame icon on the bottom right
 
-** Will has a key pre-setup that you can use if you need one. **
+**MS Employees on stand - Will has a key pre-setup that you can use if you need one. **
+
+Launch the App. 
 
 Create a dummy note for *Everyone* 
 

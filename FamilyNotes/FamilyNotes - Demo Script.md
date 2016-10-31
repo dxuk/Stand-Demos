@@ -111,6 +111,8 @@ Then just say something you want to note down.
 
 (It should then appear ... )
 
+The app is using the SpeecgRecognizer APIs to analyse the incoming sound stream
+
 The audio cues are using the SpeechSynthesizer API https://msdn.microsoft.com/library/windows/apps/windows.media.speechsynthesis.speechsynthesizer.aspx
 
 # 4 ... Basic Inking Support 

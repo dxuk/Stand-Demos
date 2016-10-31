@@ -58,13 +58,12 @@ If the application is working correctly you will see a screen like the following
     [Mon nom est Robin = My Name is Robin]("https://www.bing.com/translator/?ref=TThis&text=my%20name%20is%20robin&from=en&to=fr")  
   2) Turn on TTS (Text to speech) and run the same examples as before - you will hear the language being Spoken, subtitles will display the translation in text. Note that not all languages currently support spoken language.  
 
-
 ---
 
 **API Information**  
 The Translation APIs are part of Cognitive Services and are an example of cloud based automatic translation. These services are not only used in Skype but also Bing, SharePoint, yammer and Visual Studio. More information can be found [here]("https://www.microsoft.com/en-us/translator/at.aspx").  
 
-The [Speech API]("https://www.microsoft.com/en-us/translator/speech.aspx") which was demoed (the other service is the text api) is split into 4 stages of processing:  
+The [Speech API] ("https://www.microsoft.com/en-us/translator/speech.aspx") which was demoed (the other service is the text api) is split into 4 stages of processing:  
   1.Speech recognition, to convert audio in into text.  
   2.TrueText: A Microsoft technology that normalizes the text to make it more appropriate for translation - i.e removes the umms and ahhs that populate natural speech.  
   3.Translation through the text translation engine described above but on translation models specially developed for real life spoken conversations (there are text based models for the different languages as well)  

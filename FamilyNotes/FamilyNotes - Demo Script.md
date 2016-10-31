@@ -17,6 +17,7 @@ Supporting files: **N/A**
 
 Accounts: Configure the machine under ONE demo account.
 
+There is no video for this demo.
 
 App Setup
 ---------
@@ -90,10 +91,6 @@ Now close the FamilyNotes app.
 Show the following commands. 
 
 -- Hey Cortana, Start FamilyNotes
-
--- Hey Cortana, FamilyNotes, Add New Note 
-
--- Hey Cortana, FamilyNotes, Add new note for you...
 
 -- Hey Cortana, Show my Notes 
 

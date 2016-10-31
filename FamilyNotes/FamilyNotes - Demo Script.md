@@ -64,6 +64,8 @@ Face Detection, Facial Recognition, Cortana, Voice Dictation, Ink Notes
 
 # 1... Face Detection / Recognition 
 
+Ensure that the family notes app is launched.
+
 1. Ensure that 'Everyone' is the selected user, and that two or more people are visible to the camera (the bottom bar should light up with 'Detected Faces : x' and nothing should be selected yet. 
 
 The app is using the MediaCapture API here, to take pictures without displaying the UI of the camera. 

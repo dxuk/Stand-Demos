@@ -58,9 +58,25 @@ If the application is working correctly you will see a screen like the following
 	1) Time to practice your other languages again ! - when you are ready to speak click the 'Start' button and speak.  
 		○ Practice speaking a foreign language and see what English it comes up with.  
 		○ Speak english and see it translate into a foreign language  
-  2) Turn on TTS (Text to speech) and run the same examples as before - you will hear the language being Spoken. Note that not all languages currently support spoken language.  
+  2) Turn on TTS (Text to speech) and run the same examples as before - you will hear the language being Spoken, subtitles will display the translation in text. Note that not all languages currently support spoken language.  
 
 
 ---
 
-**API Information**
+**API Information**  
+The Translation APIs are part of Cognitive Services and are an example of cloud based automatic translation. These services are not only used in Skype but also Bing, SharePoint, yammer and Visual Studio. More information can be found [here]("https://www.microsoft.com/en-us/translator/at.aspx").  
+
+The [Speech API]("https://www.microsoft.com/en-us/translator/speech.aspx") which was demoed (the other service is the text api) is split into 4 stages of processing:
+  1.Speech recognition, to convert audio in into text.
+  2.TrueText: A Microsoft technology that normalizes the text to make it more appropriate for translation - i.e removes the umms and ahhs that populate natural speech.
+  3.Translation through the text translation engine described above but on translation models specially developed for real life spoken conversations (there are text based models for the different languages as well)
+  4.Text-to-speech, when necessary, to produce the translated audio.
+
+*Setup*
+For reference only (this is already done) - if you want to set-up the Translator Services from scratch
+Currently you will need to subscribe to the Translator applications on the Azure Marketplace and register a client app to consume the services. 
+  • To subscribe to the Translator services go [here]("https://datamarket.azure.com/browse/data?query=translator"), click on the translation you are interested in and sign up.
+  • To get a client id and secret for the client to access the Translator services you need to go [here]("https://datamarket.azure.com/developer/applications") and click to register
+	
+Azure Portal Note: this is right in the process of changing. And you will be able to just use the services straight off the Azure Portal. Visit the Azure Portal, on the left hand toolbar click the new button, search for 'Cognitive Services', select 'Select Cognitive Services APIs (Preview)' and click the create button. The following 2 API types were created:  
+<img src="./translator.png" width="1248" height="174">  

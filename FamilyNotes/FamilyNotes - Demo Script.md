@@ -92,8 +92,7 @@ Show the following commands.
 
 -- Hey Cortana, Start FamilyNotes
 
--- Hey Cortana, Show my Notes 
-
+There are a few other commands but they don't seem to work in anniversary edition as there is onenote integration in cortana.
 
 # 3 ... In app Speech Recognition
 

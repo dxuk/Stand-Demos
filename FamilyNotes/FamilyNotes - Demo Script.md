@@ -58,7 +58,7 @@ Then set up some notes :-
 
 Explain the demo
 ----------------
-** There are 4 key points to this demo. ** 
+** There are 5 key points to this demo. ** 
 
 Face Detection, Facial Recognition, Cortana, Voice Dictation, Ink Notes 
 

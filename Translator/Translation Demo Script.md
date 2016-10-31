@@ -55,8 +55,8 @@ If the application is working correctly you will see a screen like the following
 
 **Translating Speach into Text**  
   1) Time to practice your other languages again ! - when you are ready to speak click the 'Start' button and speak.   
-    a) Practice speaking a foreign language and see what English it comes up with.  
-    b) Speak english and see it translate into a foreign language  
+      a) Practice speaking a foreign language and see what English it comes up with.  
+      b) Speak english and see it translate into a foreign language  
   2) Turn on TTS (Text to speech) and run the same examples as before - you will hear the language being Spoken, subtitles will display the translation in text. Note that not all languages currently support spoken language.  
 
 ---

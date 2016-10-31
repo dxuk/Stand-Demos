@@ -51,7 +51,7 @@ This demo builds on the previous Skype demo - it shows the use of the same Speec
 **[Extract this Zip and then install the SpeechTranslator.Application file](SpeechTranslator.zip)**
 
 If the application is working correctly you will see a screen like the following:  
-<img src="./customapplication.png" width="701" height="443">  
+<img src="./customApplication.png" width="701" height="443">  
 
 **Translating Speach into Text**  
 
@@ -66,11 +66,11 @@ If the application is working correctly you will see a screen like the following
 **API Information**  
 The Translation APIs are part of Cognitive Services and are an example of cloud based automatic translation. These services are not only used in Skype but also Bing, SharePoint, yammer and Visual Studio. More information can be found [here]("https://www.microsoft.com/en-us/translator/at.aspx").  
 
-The [Speech API]("https://www.microsoft.com/en-us/translator/speech.aspx") which was demoed (the other service is the text api) is split into 4 stages of processing:
-  1.Speech recognition, to convert audio in into text.
-  2.TrueText: A Microsoft technology that normalizes the text to make it more appropriate for translation - i.e removes the umms and ahhs that populate natural speech.
-  3.Translation through the text translation engine described above but on translation models specially developed for real life spoken conversations (there are text based models for the different languages as well)
-  4.Text-to-speech, when necessary, to produce the translated audio.
+The [Speech API]("https://www.microsoft.com/en-us/translator/speech.aspx") which was demoed (the other service is the text api) is split into 4 stages of processing:  
+  1.Speech recognition, to convert audio in into text.  
+  2.TrueText: A Microsoft technology that normalizes the text to make it more appropriate for translation - i.e removes the umms and ahhs that populate natural speech.  
+  3.Translation through the text translation engine described above but on translation models specially developed for real life spoken conversations (there are text based models for the different languages as well)  
+  4.Text-to-speech, when necessary, to produce the translated audio.  
 
 *Setup*
 For reference only (this is already done) - if you want to set-up the Translator Services from scratch

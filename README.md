@@ -12,15 +12,14 @@ A collection of demonstrations that showcase Azure's range of intelligent cloud 
 
 ## More Personal Computing Demonstrations
 A collection of demonstrations that show case how Windows and Universal Windows Apps are enabling more personal computing.
-* [Windows Hello] (https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/Simple-Windows-Hello/Simple%20Windows%20Hello%20-%20Demo%20Script.md)
+* [Windows Hello](https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/Simple-Windows-Hello/Simple%20Windows%20Hello%20-%20Demo%20Script.md)
 * [Windows Inking](https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/Windows%20Inking/Windows%20Inking.md)
 * [Cortana](https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/Cortana/Cortana.md)
-* [Family Notes] (https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/FamilyNotes/FamilyNotes%20-%20Demo%20Script.md)
+* [Family Notes](https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/FamilyNotes/FamilyNotes%20-%20Demo%20Script.md)
 * [Intelligent Kiosk](https://github.com/dxuk/Stand-Demos/blob/master/Intelligent%20Kiosk/Intelligent%20Kiosk%20-%20Demo%20Script.md)
 
 ## Reinventing Productivity Demonstrations
 A collection of demos that showcase Office, Office 365 and Skype.
-* Office Unified Graph API with Visual Graph Explorer (Ross/Simon)
 * [Skype live translation via messaging and custom App](./Translator/Translation%20Demo%20Script.md)
 * [Office add-ins and commands](https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/Office%20add-ins%20and%20commands/Office%20add-ins%20and%20commands.md)
-* [Excel Bot Demo](https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/ExcelBot/Excelbot.md) (Simon)
+* [Excel Bot Demo](https://github.com/dxuk/Future-Decoded-2016-Stand-Demos/blob/master/ExcelBot/Excelbot.md)

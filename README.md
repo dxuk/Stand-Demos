@@ -1,9 +1,7 @@
-# Future Decoded 2016 Stand Demos
-A repository of markdown-based scripts and supporting files for demonstrations that will be used on the 'Microsoft Village' stand at Future Decoded 2016.
+# Stand Demos
+A repository of markdown-based scripts and supporting files for demonstrations that can be used at Microsoft stands at exhibitions and conferences.
 
-Register for Future Decoded at https://futuredecoded.microsoft.com
-
-The Microsoft Village stand will be split into several areas, three of which are dedicated to demonstrating products and technologies around the three themes of 'Intelligent Cloud', 'More Personal Computing' and 'Reinventing Productivity'. The demonstration in this repository are the same ones that you'll have seen at the Microsoft Village stand and are provided here for your reference and information.
+The demos in this repository are deisgned to demonstrate products and technologies around the three themes of 'Intelligent Cloud', 'More Personal Computing' and 'Reinventing Productivity'.
 
 ## Intelligent Cloud Demonstrations
 A collection of demonstrations that showcase Azure's range of intelligent cloud services, including Microsoft Cognitive Services, Azure Machine Learning and others.
